@@ -10,6 +10,6 @@ This repository provides resources and code for training deep neural networks us
 - **Callbacks**: Custom callbacks for training monitoring and early stopping.
 
 ## Notebooks
-- master_assignment: An assignment I did in my master's about Neural Networks
-- training_deep_neural_networks: In this notebook, we will be comparing different activation functions common in the development of Deep Neural Networks
-- neural_nets_with_keras: In this notebook we will be playing with different datasets while solving some Artificial Neural Networks exercises
+- **`master_assignment.ipynb`**: An assignment I did in my master's about Neural Networks
+- **`training_deep_neural_networks.ipynb`**: In this notebook, we will be comparing different activation functions common in the development of Deep Neural Networks
+- **`neural_nets_with_keras.ipynb`**: In this notebook we will be playing with different datasets while solving some Artificial Neural Networks exercises
